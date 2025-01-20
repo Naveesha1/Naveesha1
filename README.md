@@ -1,10 +1,10 @@
 <h2> Hi, I'm Naveesha Kavindi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Passionate IT Undergraduate at <a href="https://uom.lk/">University of Moratuwa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Passionate ITM Undergraduate at <a href="https://uom.lk/">University of Moratuwa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-![Static Badge](https://img.shields.io/badge/Linkedin-me?color=blue)(http://www.linkedin.com/in/naveesha-kavindi-667835268)
-![Static Badge](https://img.shields.io/badge/Github-me?logo=github&color=darkgreen)(https://github.com/Naveesha1)
+[![Static Badge](https://img.shields.io/badge/Linkedin-me?color=blue)](http://www.linkedin.com/in/naveesha-kavindi-667835268)
+[![Static Badge](https://img.shields.io/badge/Github-me?logo=github&color=darkgreen)](https://github.com/Naveesha1)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><i>A little more about me...</i>  
